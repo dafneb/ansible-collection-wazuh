@@ -3,6 +3,7 @@ extends: default
 
 ignore:
   - /.github/
+  - /.ansible-lint
 
 rules:
   line-length: disable
