@@ -6,6 +6,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/dafneb/ansible-collection-wazuh)
 ![GitHub contributors](https://img.shields.io/github/contributors/dafneb/ansible-collection-wazuh)
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dafneb/ansible-collection-wazuh/ansible-lint.yml?label=ansible-lint)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dafneb/ansible-collection-wazuh/codeql.yml?label=CodeQL)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dafneb/ansible-collection-wazuh/badge)](https://scorecard.dev/viewer/?uri=github.com/dafneb/ansible-collection-wazuh)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/dafneb/ansible-collection-wazuh/main.svg)](https://results.pre-commit.ci/latest/github/dafneb/ansible-collection-wazuh/main)
